@@ -1,0 +1,17 @@
+{
+  "name": "project_a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+  },
+  "repository": "git@github.com:mohamedlam/react--local-dependencies.git",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mohamed Lamrani Alaaui",
+  "license": "MIT",
+  "devDependencies": {
+    "rm-local-modules": "0.0.1"
+  }
+}
