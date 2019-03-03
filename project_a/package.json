@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "project_b": "file:./../project_b",
     "esm": "^3.2.9"
   },
   "repository": "git@github.com:mohamedlam/react--local-dependencies.git",
