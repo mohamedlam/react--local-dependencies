@@ -1,5 +1,8 @@
 project_a/node_modules
+project_a/package-lock.json
 
 project_b/node_modules
+project_b/package-lock.json
 
 .idea
+
